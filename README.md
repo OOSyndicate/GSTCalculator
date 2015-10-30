@@ -1,7 +1,9 @@
 # GST CALCULATOR (MALAYSIA GST CALCULATOR)
 
 ==========
-This script using language ASP (Active Server Pages) with Javascript
+This script using language ASP (Active Server Pages) with Javascript (AJAX)
+
+1. Folder Website - Web-Based Interface
 
 Fairuz Abd Rahman
 - URL : http://gstkalkulator.com
